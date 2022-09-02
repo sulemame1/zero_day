@@ -1,2 +1,1 @@
-my secound reame
-# zero_day
+o-hello_ubuntu
